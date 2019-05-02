@@ -2,5 +2,5 @@
 <manifest>
 <remote name="mortaro" fetch="https://github.com/mortaromarcello/" />
 <project path="vendor/lenovo/jd2018" name="vendor_lenovo_jd2018" remote="mortaro" revision="master" />
-<project path="device/lenovo/jd2018" name="device_lenovo_jd2018" remote="phh" revision="master" />
+<project path="device/lenovo/jd2018" name="device_lenovo_jd2018" remote="mortaro" revision="master" />
 </manifest>
